@@ -1,5 +1,6 @@
 # Huge files
 .csv
+.Rhistory
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
